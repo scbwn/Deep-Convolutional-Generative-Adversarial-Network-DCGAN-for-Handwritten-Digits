@@ -28,7 +28,7 @@ DCGAN is a type of Generative Adversarial Network (GAN) that uses convolutional 
 - NumPy
 - Matplotlib (for visualization)
 
-Usage
+## Usage
 
 1. Clone repository
 2. Install requirements
@@ -36,7 +36,7 @@ Usage
 4. Run training script
 5. Generate new digits using trained model
 
-Example Use Cases
+## Example Use Cases
 
 - Generating realistic handwritten digits for data augmentation
 - Improving performance of handwritten digit recognition models
